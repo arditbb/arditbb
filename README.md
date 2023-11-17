@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about building robust and efficient
 
 💾 **Databases:** 
 - PostgreSQL
+- MySQL
 
 🔧 **Tools & Technologies:** 
 - Git
